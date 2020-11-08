@@ -1,1 +1,1 @@
-Flask application to viwe the hirarchy of users based on roles
+Flask application to view the hierarchy of users based on role
