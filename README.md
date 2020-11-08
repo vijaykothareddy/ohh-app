@@ -35,7 +35,7 @@ Post completion of the script, just need run the command specified by script.
 
 All application file are rendered into a structure as below,
 
-[]!(https://github.com/vijaykothareddy/Data-Engineering/blob/master/Images/dtree.PNG)
+![](https://github.com/vijaykothareddy/Data-Engineering/blob/master/Images/dtree.PNG)
 
 
 ### Sample application UI
