@@ -16,6 +16,19 @@
 
 **application.py** web application routes are defined
 
+## Let see how it works
 
+### Prerequisites
+
+1. Python3
+2. Git
+3. Virtualenv
+4. Ubuntu or any linux flavour
+
+### app_config.sh
+
+If you have a machine with above prerequisites, running the *app_config.sh* will clone the code from this repo and set up flask.
+
+Post completion of the script, just need run the command specified by script.
 
 
