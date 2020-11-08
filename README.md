@@ -38,7 +38,28 @@ All application file are rendered into a structure as below,
 
 
 
-### sample application UI
+### Sample application UI
+
+URL
+
+```
+http://127.0.0.1:5000/index
+
+```
+
+you will see search bar to enter the user id to see its sub ordinates
+
+![](https://github.com/vijaykothareddy/Data-Engineering/blob/master/Images/ui1.png)
+
+submit with input
+
+![](https://github.com/vijaykothareddy/Data-Engineering/blob/master/Images/ui2.png)
+
+result
+
+![](https://github.com/vijaykothareddy/Data-Engineering/blob/master/Images/ui3.png)
+
+refresh the url and it will be ready for input
 
 ## SQL
 

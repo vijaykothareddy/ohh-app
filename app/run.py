@@ -16,7 +16,7 @@ def drive(uid):
     rbac.create_user("Emily Employee", role_id5, 2)
     rbac.create_user("Sam Supervisor", role_id4, 3)
     rbac.create_user("Mary Manager", role_id3, 4)
-    rbac.create_user("Trent Trainer", role_id4, 5)
+    rbac.create_user("Trent Trainer", role_id6, 5)
 
     # json responce construction
 
