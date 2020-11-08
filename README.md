@@ -31,4 +31,21 @@ If you have a machine with above prerequisites, running the *app_config.sh* will
 
 Post completion of the script, just need run the command specified by script.
 
+### Application directory structure
+
+All application file are rendered into a structure as below,
+
+
+
+
+### sample application UI
+
+## SQL
+
+Average salary of content creating lead
+
+''' '''
+
+
+
 
