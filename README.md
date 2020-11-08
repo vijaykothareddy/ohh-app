@@ -44,7 +44,19 @@ All application file are rendered into a structure as below,
 
 Average salary of content creating lead
 
-''' '''
+```SQL
+select avg(salary) AVG_CONTENT_CREATOR_SALARY from employee
+where roleId = (select id from roles where name ='Content Creating Lead')	
+
+```
+Hierarchy of a person with role name
+
+```SQL
+select r.name UserRole ,e.name EmployeeName
+from employee e inner join roles r
+on e.roleId = r.id	
+
+```
 
 
 
