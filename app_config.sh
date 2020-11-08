@@ -7,27 +7,47 @@ echo '''
 	******************************************************
 	'''
 
-echo ''' cloning the app repo from Git '''
+echo ''' 
+	*****************************************************
+	cloning the app repo from Git 
+	*****************************************************
+'''
 
 git clone https://github.com/vijaykothareddy/ohh-app
 
-echo ''' creating virtual environment '''
+echo ''' 
+	*****************************************************
+	creating virtual environment 
+	*****************************************************
+'''
 
 virtualenv -p `which python3` venv
 
-echo ''' activating the virtual environment '''
+echo ''' 
+	*****************************************************
+	activating the virtual environment 
+	*****************************************************
+'''
 
 source venv/bin/activate
 
-echo ''' installing Flask module '''
+cd ohh-app/app
+
+echo ''' 
+	*****************************************************
+	installing Flask module 
+	*****************************************************
+'''
 
 pip install flask
 
 echo ''' 
+	*****************************************************
 	please export you application python file as below
 	browse to the file location
     export FLASK_APP=application.py
 	run application: flask run 
 	
+	*****************************************************
 	'''
 
