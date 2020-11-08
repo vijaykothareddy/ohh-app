@@ -1,13 +1,15 @@
-echo '''*****************************************************
-        Assuming the Git and Virtualenv are installed, if not
-        sudo apt install git
+echo '''
+	*****************************************************
+    Assuming the Git and Virtualenv are installed, if not
+    sudo apt install git
 	apt install virtualenv 
 	please rerun the script post installing above packages
 	******************************************************
 	'''
+
 echo ''' cloning the app repo from Git '''
 
-Git clone https://github.com/vijaykothareddy/ohh-app
+git clone https://github.com/vijaykothareddy/ohh-app
 
 echo ''' creating virtual environment '''
 
@@ -21,7 +23,11 @@ echo ''' installing Flask module '''
 
 pip install flask
 
-echo ''' please export you application python file as below
-         export FLASK_APP=application.py
-	 run application: falsh run '''
+echo ''' 
+	please export you application python file as below
+	browse to the file location
+    export FLASK_APP=application.py
+	run application: flask run 
+	
+	'''
 
