@@ -78,7 +78,15 @@ from employee e inner join roles r
 on e.roleId = r.id	
 
 ```
+## Cloud Deployment
 
+The application has been deployed to cloud by using AWS Beanstalk service.
+
+Python code has been packaged as below,
+
+![](https://github.com/vijaykothareddy/Data-Engineering/blob/master/Images/packagetree.PNG)
+
+zip archive of above files are uploaded to cloud for deployment.
 
 
 
