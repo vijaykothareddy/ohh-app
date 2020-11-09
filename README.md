@@ -94,7 +94,7 @@ Python code has been packaged as below,
 
 ![](https://github.com/vijaykothareddy/Data-Engineering/blob/master/Images/packagetree.PNG)
 
-Zip archive <https://github.com/vijaykothareddy/ohh-app/blob/main/appcode.zip> of above files are uploaded to cloud for deployment.
+![Zip archive](../blob/main/appcode.zip) of above files are uploaded to cloud for deployment.
 
 
 
