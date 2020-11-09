@@ -1,7 +1,7 @@
 ## Flask application to view the hierarchy of users based on roles
 
-- [Appliction On Ubuntu](##Let-see-how-it-works)
-- [SQL](##sql)
+- [Appliction On Ubuntu](#Let-see-how-it-works)
+- [SQL](#sql)
 - [Cloud Deployment]
 - [Testing]
 
