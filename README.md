@@ -88,7 +88,7 @@ This is a service provided by AWS to deploy scalable web based application.
 
 Under the hood it automates the configuration of *EC2*, *LoadBalancer*, *Security*, *Database* and other.  
 
-Enables us to 
+Enables us to focus on our application development.
 
 Python code has been packaged as below,
 
