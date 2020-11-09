@@ -82,6 +82,14 @@ on e.roleId = r.id
 
 The application has been deployed to cloud by using AWS Beanstalk service.
 
+### AWS Beanstalk service
+
+This is a service provided by AWS to deploy scalable web based application.
+
+Under the hood it automates the configuration of *EC2*, *LoadBalancer*, *Security*, *Database* and other.  
+
+Enables us to 
+
 Python code has been packaged as below,
 
 ![](https://github.com/vijaykothareddy/Data-Engineering/blob/master/Images/packagetree.PNG)
