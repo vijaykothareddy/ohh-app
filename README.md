@@ -99,8 +99,22 @@ Python code has been packaged as below,
 
 ![](https://github.com/vijaykothareddy/Data-Engineering/blob/master/Images/packagetree.PNG)
 
-![Zip archive](../blob/main/appcode.zip) of above files are uploaded to cloud for deployment.
+[Zip archive](../blob/main/appcode.zip) of above files are uploaded to cloud for deployment.
 
+## Testing
 
+### Prerequisites
+
+1. Python3
+2. Pytest module
+
+### steps to run tests
+
+1. unzip [Zip archive](../blob/main/appcode.zip)
+2. run pytest appcode/test.py
+
+### sample test result using jupyter lab 
+
+![](https://github.com/vijaykothareddy/Data-Engineering/blob/master/Images/testresult.PNG)
 
 
