@@ -1,11 +1,12 @@
 ## Flask application to view the hierarchy of users based on roles
 
-- [Appliction On Ubuntu](#Let-see-how-it-works)
+- [Introduction](#Overview-of-my-Objects-and-Relations)
+- [Application On Ubuntu](#Let-see-how-it-works)
 - [SQL](#sql)
 - [Cloud Deployment](#Cloud-Deployment)
 - [Testing](#Testing)
 
-### Overview of my Objects and Relations
+## Overview of my Objects and Relations
 
 ![](https://github.com/vijaykothareddy/Data-Engineering/blob/master/Images/RBAC.png)
 
